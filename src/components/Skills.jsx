@@ -5,28 +5,33 @@ export function Skills() {
 
       <ul className="logos">
         <li>
+        <h5>HTML</h5>
           <img
             src="https://arjun40779.github.io/portfolio/skills/html.svg"
             title="HTML5"
             alt="program_img"
           />
+          
         </li>
         <li>
+        <h5>CSS</h5>
           <img
             src="https://arjun40779.github.io/portfolio/skills/css.svg"
             title="CSS3"
             alt="program_img"
           />
         </li>
-        <li>
+        {/* <li>
+        <h5>TailwindCSS</h5>
           <img
             src="https://arjun40779.github.io/portfolio/skills/tailwind.svg"
             title="Tailwind CSS"
             alt="program_img"
           />
-        </li>
+        </li> */}
        
         <li>
+        <h5>JS</h5>
           <img
             src="https://arjun40779.github.io/portfolio/skills/js.svg"
             title="Javascript"
@@ -34,6 +39,7 @@ export function Skills() {
           />
         </li>
         <li>
+        <h5>ReactJS</h5>
           <img
             src="https://arjun40779.github.io/portfolio/skills/react.svg"
             title="React JS"
@@ -41,15 +47,17 @@ export function Skills() {
           />
         </li>
        
-        <li>
+        {/* <li>
+        <h5>HTML</h5>
           <img
             id="redux"
             src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png"
             title="redux"
             alt="program_img"
           />
-        </li>
+        </li> */}
         <li>
+        <h5>NodeJS</h5>
           <img
             id="redux"
             src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
@@ -58,6 +66,7 @@ export function Skills() {
           />
         </li>
         <li>
+        <h5>GIT</h5>
           <img
             id="redux"
             src="https://cdn.iconscout.com/icon/free/png-256/free-git-16-1175195.png"

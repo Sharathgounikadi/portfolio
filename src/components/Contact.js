@@ -15,13 +15,13 @@ const Contact = () => {
           <Feedback />
           <div className="contact__icons">
             <div className="contact__icon-box">
-              <a href="tel:9971268698">
+              <a href="tel:9014159922">
                 <span>
                   <i className="fa-solid fa-mobile"></i>
                 </span>
                 <div className="contact__info">
                   <h5>Phone</h5>
-                  9971268698
+                  9014159922
                 </div>{" "}
               </a>
             </div>
@@ -35,13 +35,13 @@ const Contact = () => {
                 </span>
                 <div className="contact__info">
                   <h5>Mail</h5>
-                  pravesh.meena2892@gmail.com
+                  sharathgaunikadi12007@gmail.com
                 </div>
               </a>
             </div>
 
             <div className="contact__icon-box">
-              <a href="https://drive.google.com/file/d/1HAp0r-3vLxHk7nAyDkc0jK3LYyqetP_m/view?usp=sharing" download target="_blank">
+              <a href="https://drive.google.com/file/d/1iy1PfPihtLcA3jJEYmD6pycy7Do8scIC/view" download target="_blank">
                 <span>
                   <i className="fa-solid fa-file"></i>
                 </span>

@@ -29,7 +29,7 @@ const Nav = () => {
             </li>
           </ul>
         ) : null}{" "}
-        <h3 className="initial">Pravesh Meena.</h3>
+        <h3 className="initial">Sharath Gounikadi.</h3>
       </div>
     </nav>
   );
