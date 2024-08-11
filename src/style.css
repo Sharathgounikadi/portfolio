@@ -384,7 +384,7 @@ label#standard-multiline-static-label {
 	width: 50%;
 }
 
-@media only screen and (max-width: 800px) {
+/* @media only screen and (max-width: 800px) {
 	p {
 		font-size: 14px;
 	}
@@ -486,7 +486,7 @@ label#standard-multiline-static-label {
 	.contact .contact__content .contact__icons .contact__icon-box a {
 		font-size: 1rem;
 	}
-}
+} */
 
 /* Keyframes for fadeIn animation */
 @keyframes fadeIn {
