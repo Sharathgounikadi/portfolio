@@ -29,7 +29,7 @@ const Contact = () => {
           
 
             <div className="contact__icon-box">
-              <a href="https://mail.google.com/mail/u/0/?fs=1&to=pravesh.meena2892@gmail.com&tf=cm">
+              <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
                 <span>
                   <i className="fa-solid fa-envelope-open-text"></i>
                 </span>
