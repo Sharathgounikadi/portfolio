@@ -21,14 +21,6 @@ export function Skills() {
             alt="program_img"
           />
         </li>
-        {/* <li>
-        <h5>TailwindCSS</h5>
-          <img
-            src="https://arjun40779.github.io/portfolio/skills/tailwind.svg"
-            title="Tailwind CSS"
-            alt="program_img"
-          />
-        </li> */}
        
         <li>
         <h5>JS</h5>
@@ -47,15 +39,7 @@ export function Skills() {
           />
         </li>
        
-        {/* <li>
-        <h5>HTML</h5>
-          <img
-            id="redux"
-            src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png"
-            title="redux"
-            alt="program_img"
-          />
-        </li> */}
+       
         <li>
         <h5>NodeJS</h5>
           <img
